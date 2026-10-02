@@ -5,7 +5,7 @@
     <link>https://eeb.org/en/library/</link>
     <description>Latest documents and publications from the European Environmental Bureau</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:56:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:22:47 +0000</lastBuildDate>
     <item>
       <title>EEB’s DISSENTING VIEWS: WG1 – Critical Chemicals and Sites Categories: Chemicals, Industry &amp; Health Types: Position Published: 1 October 2026</title>
       <link>https://eeb.org/en/library/eebs-dissenting-views-wg1-critical-chemicals-and-sites/</link>
@@ -53,6 +53,14 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <description>Type: Joint Publication | Categories: Climate &amp;amp; Energy, Housing, Resource Efficiency</description>
       <category>Joint Publication</category>
+    </item>
+    <item>
+      <title>Letter to EU Ambassadors on the Regulation to speed up environmental assessments Categories: Nature &amp; Agriculture Types: Letter Published: 29 September 2026</title>
+      <link>https://eeb.org/en/library/letter-to-eu-ambassadors-on-the-regulation-to-speed-up-environmental-assessments/</link>
+      <guid isPermaLink="true">https://eeb.org/en/library/letter-to-eu-ambassadors-on-the-regulation-to-speed-up-environmental-assessments/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Type: Letter | Categories: Nature &amp;amp; Agriculture</description>
+      <category>Letter</category>
     </item>
     <item>
       <title>Feedback on the July 2026 CRCF Carbon Farming Delegated Act Categories: Climate &amp; Energy, Climate Change, Farming, Nature &amp; Agriculture Types: Position Published: 29 September 2026</title>
@@ -155,14 +163,6 @@
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <description>Type: Response | Categories: Industrial Production</description>
       <category>Response</category>
-    </item>
-    <item>
-      <title>Guidance for effective environmental crime strategies Categories: Environmental Democracy, Environmental Justice, Implement for LIFE Types: Joint Publication Published: 23 July 2026</title>
-      <link>https://eeb.org/en/library/guidance-for-effective-environmental-crime-strategies/</link>
-      <guid isPermaLink="true">https://eeb.org/en/library/guidance-for-effective-environmental-crime-strategies/</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Type: Joint Publication | Categories: Environmental Democracy, Environmental Justice, Implement for LIFE</description>
-      <category>Joint Publication</category>
     </item>
   </channel>
 </rss>
